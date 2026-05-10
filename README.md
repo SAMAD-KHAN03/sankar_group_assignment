@@ -318,6 +318,7 @@ Suggested demo walkthrough:
 ## 👤 Author
 
 Mohammad Samad Khan
+
 Flutter Development Intern Applicant  
 Sankar Group — Internship Assignment
 
