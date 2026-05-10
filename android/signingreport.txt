@@ -1,0 +1,112 @@
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle:compileKotlin UP-TO-DATE
+> Task :gradle:compileJava NO-SOURCE
+> Task :gradle:compileGroovy NO-SOURCE
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources UP-TO-DATE
+> Task :gradle:classes UP-TO-DATE
+> Task :gradle:jar UP-TO-DATE
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+Variant: release
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+Variant: profile
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+
+> Task :cloud_firestore:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+
+> Task :jni:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+
+> Task :jni_flutter:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/samad/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: C0:EE:D1:FF:11:40:36:8C:1A:96:40:AB:98:46:71:E9
+SHA1: 96:73:E6:DE:E2:BD:B5:FF:44:14:F2:9E:A2:6A:A7:E8:05:08:93:92
+SHA-256: 9B:B6:15:C7:D0:B7:7D:E5:1F:11:4E:D5:99:E1:B8:32:73:0E:64:C5:D8:00:9B:C0:BE:27:75:97:EE:69:6A:35
+Valid until: Saturday, 29 May, 2055
+----------
+
+[Incubating] Problems report is available at: file:///Users/samad/Documents/sankar_group_assignment/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.12/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 4s
+10 actionable tasks: 6 executed, 4 up-to-date

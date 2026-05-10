@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190570198089",
+    "project_id": "sankar-group",
+    "storage_bucket": "sankar-group.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190570198089:android:1c1e49ac71c4bf55b13b98",
+        "android_client_info": {
+          "package_name": "sankarGroup.sankar_group_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeas3ARiykvrc8x3cRX3nvR6v6eN9glTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
